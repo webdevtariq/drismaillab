@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <g stroke="#ffffff" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- base -->
+    <line x1="22" y1="80" x2="78" y2="80"/>
+    <!-- stage legs -->
+    <path d="M34 80 V70"/>
+    <path d="M66 80 V70"/>
+    <!-- stage -->
+    <rect x="34" y="62" width="32" height="6" fill="#ffffff" stroke="none" rx="1"/>
+    <!-- arm going up -->
+    <line x1="50" y1="62" x2="50" y2="34"/>
+    <!-- eyepiece tube (diagonal) -->
+    <line x1="50" y1="34" x2="34" y2="20"/>
+    <!-- eyepiece head -->
+    <circle cx="32" cy="18" r="6" fill="#ffffff" stroke="none"/>
+    <!-- objective lens -->
+    <rect x="46" y="38" width="9" height="6" fill="#ffffff" stroke="none" rx="1"/>
+    <!-- focus knob -->
+    <circle cx="65" cy="55" r="4"/>
+  </g>
+</svg>
